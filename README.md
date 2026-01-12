@@ -1,2 +1,2 @@
 # rbxps
-Roblox PowerShell script on .ps1
+just .ps1 script to launch roblox in powershell  
